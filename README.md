@@ -1,1 +1,1 @@
-https://github.com/gautam21-nova/Projects
+https://roadmap.sh/projects/single-page-cv
